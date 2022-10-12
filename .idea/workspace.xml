@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4dfe64b-6703-480c-b4cc-eee5fc01f85b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLab6.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carshop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carshop/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carshop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carshop/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carshop/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarshopImplement/MyOwnAutoShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarshopInterface/Admin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FrKbYjjkduWgG17N5VMuPjDYc4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4dfe64b-6703-480c-b4cc-eee5fc01f85b" name="Changes" comment="" />
+      <created>1665244835807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665244835807</updated>
+      <workItem from="1665244837211" duration="1595000" />
+      <workItem from="1665304550049" duration="1476000" />
+      <workItem from="1665334332734" duration="7439000" />
+      <workItem from="1665393518963" duration="6382000" />
+      <workItem from="1665405702185" duration="2391000" />
+      <workItem from="1665412763111" duration="7897000" />
+      <workItem from="1665430743937" duration="925000" />
+      <workItem from="1665435013461" duration="422000" />
+      <workItem from="1665476129925" duration="1201000" />
+      <workItem from="1665512119100" duration="135000" />
+      <workItem from="1665514847910" duration="5000" />
+      <workItem from="1665578635707" duration="3044000" />
+      <workItem from="1665587413422" duration="5032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
