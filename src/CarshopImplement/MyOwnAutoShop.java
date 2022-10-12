@@ -111,9 +111,9 @@ public class MyOwnAutoShop implements Admin, Customer {
         do{
             System.out.println("\n");
             menu = num.nextInt();
-            if (carArray[id].getIsSellOut()[menu-1])
+            if (carArray[id].getIsSellOut()[menu-1] == false)
                 System.out.print("\nOut of stock.");
-        } while ((menu>10||menu<1) || carArray[id].getIsSellOut()[menu-1]);
+        } while ((menu>10||menu<1) || carArray[id].getIsSellOut()[menu-1] == false);
         menu--;
         truePrice = carArray[id].getSalePrice(menu);
         System.out.print("\nSo you bought:\n");
